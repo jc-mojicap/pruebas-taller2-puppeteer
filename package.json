@@ -1,0 +1,32 @@
+{
+  "name": "pruebas-taller2-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "jest": "^24.9.0",
+    "jest-puppeteer": "^4.3.0",
+    "npm": "^6.11.2",
+    "puppeteer": "^1.19.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "jest": {
+    "preset": "jest-puppeteer"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jc-mojicap/pruebas-taller2-puppeteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jc-mojicap/pruebas-taller2-puppeteer/issues"
+  },
+  "homepage": "https://github.com/jc-mojicap/pruebas-taller2-puppeteer#readme"
+}
